@@ -5,7 +5,7 @@
     <img src="./logo_imfabra.jpg" alt="Logo" width="80" height="80" style="border-radius: 50%;">
   </a>
 
-  <h3 align="center">I'm Fabra - Front-end developer</h3>
+  <h3 align="center">I'm Fabra - Full-Stack Developer</h3>
   <h5 align="center">By Daniel Fabra</h3>
 
   <p align="center">
